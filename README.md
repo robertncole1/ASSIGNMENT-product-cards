@@ -1,5 +1,7 @@
 # Product Cards
 
+Issue tickets have been created so that you can track your progress. As you complete a ticket, close it out.
+
 ## Setup
 * While in `~/workspace/foundations/exercises`, make a directory called `product-cards`
 * Create a github repository called `product-cards` and push up a README.md file
