@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.product-card {
+  border: 1px solid lightskyblue;
+  width: 33%;
+}
+
+.product-card img {
+  max-width: 80%;
+}
+
+.product-card h2 {
+  text-align: center;
+  color: lightskyblue;
+}
+
+.product-card p {
+  padding: 10px;
+}
